@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/ttam5/ManimTesting/media/videos/MovingAround/1080p60/partial_movie_files/MovingAround/3529212410_4244956255_2766211485.mp4'
+file 'file:/home/ttam5/ManimTesting/media/videos/MovingAround/1080p60/partial_movie_files/MovingAround/3040924799_1424747225_2766211485.mp4'
+file 'file:/home/ttam5/ManimTesting/media/videos/MovingAround/1080p60/partial_movie_files/MovingAround/3040924799_2939461287_2766211485.mp4'
+file 'file:/home/ttam5/ManimTesting/media/videos/MovingAround/1080p60/partial_movie_files/MovingAround/3040924799_3146175184_2766211485.mp4'
